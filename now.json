@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "name": "Dev Portfolio Next",
+    "public": true,
+    "builds": [{ "src": "package.json", "use": "@now/next" }]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "devportfolionext",
+    "version": "1.0.0",
+    "description": "A developer portfolio website",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "now-build": "next build",
+        "start": "next start",
+        "export": "next build && next export -o public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git"
+    },
+    "keywords": [],
+    "author": "Nhlanhla Khumalo",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/"
+    },
+    "dependencies": {
+        "link": "^0.1.5",
+        "next": "^10.0.5",
+        "react": "^16.14.0",
+        "react-dom": "^16.14.0"
+    }
+}
