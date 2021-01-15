@@ -21,6 +21,7 @@ const Projects = () => (
           <img src="/static/projects/proj3.JPG" />
           <h2>Retail Clothing Site</h2>
           <p>This is a personal website project that showcases skills in building a website using HTML,CSS and Javascript for a clothing company.</p>
+          <a href="https://ntg841013.github.io/Clothing-Site/">Click to view site</a>
         </div>
         <div className="item">
           <img src="/static/projects/proj4.JPG" />
