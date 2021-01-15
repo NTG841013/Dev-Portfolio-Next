@@ -8,19 +8,19 @@ const Projects = () => (
         <div className="item">
           <img src="/static/projects/proj1.jpg" />
           <h2>Personal Website</h2>
-          <p>This is a personal webiste that showcases skills in building a website using HTML,CSS and Javascript</p>
+          <p>This is a personal website project, that showcases skills in building a website using only HTML,CSS and Javascript</p>
           <a href="https://ntg841013.github.io/Nhlanhla-Khumalo-s-Resume/">Click to view site.</a>
         </div>
         <div className="item">
           <img src="/static/projects/proj2.JPG" />
           <h2>i tunes API search site</h2>
-          <p>This is a project that showcases the skills in building app using React and Express, and interfacing with a third party API.</p>
+          <p>This is a personal project that showcases the skills in building applications using React and Express, and interfacing with a third party API.</p>
           <a href="https://ntg841013.github.io/api-itunes/">Click to view site</a>
         </div>
         <div className="item">
           <img src="/static/projects/proj3.JPG" />
           <h2>Retail Clothing Site</h2>
-          <p>This is a personal webiste that showcases skills in building a website using HTML,CSS and Javascript.</p>
+          <p>This is a personal website project that showcases skills in building a website using HTML,CSS and Javascript for a clothing company.</p>
         </div>
         <div className="item">
           <img src="/static/projects/proj4.JPG" />
