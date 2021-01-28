@@ -14,7 +14,8 @@ const Contact = () => (
     <div className="contact-text">
       <img src="/static/Pic.jpg" />
       <p>
-      Hello! I am Nhlanhla Khumalo, Currently studying Full Stack Web Development. Python and its libraries is the first language I learned to code with.
+      Hello! I am Nhlanhla Khumalo, Currently studying Full Stack Web Development. 
+      Python and its libraries is the first language I learned to code with.
       I am currently trying to learn different coding languages to just increase my range. 
       .I have completed a bootcamp in data science, and am busy building some personal projects 
       to increase my experience in that field as well. I am guy that loves solving challenging issues, and always reading and building personal projects.
