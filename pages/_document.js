@@ -7,7 +7,7 @@ export default class MyDocument extends Document {
   }
 
   render() {
-    const GA_MEASUREMENT_ID = 'GA4 (260332452)'; // Paste your GTAG here
+    const GA_MEASUREMENT_ID = 'G-D7LKH09Y2E'; // Paste your GTAG here
     return (
       <html lang="en">
         <Head>
